@@ -1,0 +1,47 @@
+.body-auth {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  align-items: center;
+  background-image: url("./../images/background-auth-page.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  .gutter-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .logo img {
+      width: 100px;
+      margin: 4px;
+      border-radius: 100%;
+    }
+    &.routes{
+      margin-bottom: 10vh;
+    }
+  }
+
+  .wrapper {
+    width: 420px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  a {
+    color: #fff;
+    &:hover {
+      color: #006aff;
+      -webkit-transform: scale(1.05);
+    }
+  }
+  .ant-checkbox-wrapper {
+    span {
+      color: #fff;
+    }
+    &:hover {
+      -webkit-transform: scale(1.05);
+    }
+  }
+}

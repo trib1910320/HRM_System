@@ -1,0 +1,30 @@
+.events {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  .ant-badge-status {
+    width: 100%;
+    overflow: hidden;
+    font-size: 12px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+}
+.notes-month {
+  font-size: 28px;
+  text-align: center;
+
+  section {
+    font-size: 28px;
+  }
+}
+
+.ant-picker-calendar .ant-picker-calendar-header .ant-picker-calendar-mode-switch{
+  display: none;
+}
+div.ant-progress-inner{
+  width: 120px !important;
+  height: 120px !important;
+  font-size: 22px !important;
+}

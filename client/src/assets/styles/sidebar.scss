@@ -1,0 +1,25 @@
+.demo-logo-vertical {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    img {
+        width: 95%;
+        margin: 4px;
+        border-radius: 5px;
+    }
+}
+.sider-bar{
+    overflow: auto !important;
+    height: calc(100vh - 7vh)!important;
+    position: sticky !important;
+    top: 0;
+    left: 0;
+    li.ant-menu-item {
+        height: auto;
+    }
+}
+
+.ant-card-body{
+    padding: 0;
+}
