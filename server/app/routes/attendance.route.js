@@ -1,14 +1,14 @@
 import express from "express";
-import attendanceController from "./../controllers/attendance.controller";
-import validation from '../middlewares/validation.middleware';
+import attendanceController from "./../controllers/attendance.controller.js";
+import validation from '../middlewares/validation.middleware.js';
 import {
     loginAttendanceSchema,
     logoutAttendanceSchema,
     managerUpdateAttendanceSchema,
     adminUpdateAttendanceSchema,
-} from "../validations/attendance.validation";
-import { filterAll, modelFilterSchema } from "../validations/filter.validation";
-import { verifyAdmin, verifyAdminOrDepartmentManager } from './../middlewares/auth.middleware';
+} from "../validations/attendance.validation.js";
+import { filterAll, modelFilterSchema } from "../validations/filter.validation.js";
+import { verifyAdmin, verifyAdminOrDepartmentManager } from './../middlewares/auth.middleware.js';
 
 const router = express.Router();
 

@@ -1,13 +1,13 @@
 import createError from 'http-errors';
-import userService from "./../services/user.service";
-import employeeService from "./../services/employee.service";
-import config from '../config/configServer';
+import userService from "./../services/user.service.js";
+import employeeService from "./../services/employee.service.js";
+import config from '../config/configServer.js';
 import {
     MSG_INVALID_TOKEN,
-    MSG_ERROR_USER_NOT_FOUND,
+    MSG_ERROR_NOT_FOUND,
     MSG_NOT_TOKEN_FOR_AUTH
-} from './../utils/message.util';
-import { verifyToken } from './../utils/jwt.util';
+} from './../utils/message.util.js';
+import { verifyToken } from './../utils/jwt.util.js';
 
 exports.verifyAccessToken = async (req, res, next) => {
     try {
@@ -24,7 +24,7 @@ exports.verifyAccessToken = async (req, res, next) => {
         if (!payload) return next(createError.BadRequest(MSG_INVALID_TOKEN));
 
         const user = await userService.findByIdSecret(payload.id);
-        if (!user) return next(createError.NotFound(MSG_ERROR_USER_NOT_FOUND));
+        if (!user) return next(createError.NotFound(MSG_ERROR_NOT_FOUND("User")));
         req.user = user;
         next();
     } catch (error) {

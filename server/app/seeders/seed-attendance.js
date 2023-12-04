@@ -103,7 +103,7 @@ module.exports = {
                 id: 13,
                 attendanceDate: '2023-11-29',
                 inTime: '08:01:08',
-                inStatus: 'On Time',
+                inStatus: 'Late In',
                 employeeId: 'NV20230001',
                 shiftId: 1
             },
@@ -143,7 +143,7 @@ module.exports = {
                 id: 18,
                 attendanceDate: '2023-11-29',
                 inTime: '07:59:11',
-                inStatus: 'Late In',
+                inStatus: 'On Time',
                 employeeId: 'NV20230006',
                 shiftId: 1
             },
@@ -167,7 +167,7 @@ module.exports = {
                 id: 21,
                 attendanceDate: '2023-11-29',
                 inTime: '12:58:12',
-                inStatus: 'Late In',
+                inStatus: 'On Time',
                 employeeId: 'NV20230003',
                 shiftId: 2
             },
@@ -175,7 +175,7 @@ module.exports = {
                 id: 22,
                 attendanceDate: '2023-11-29',
                 inTime: '13:01:52',
-                inStatus: 'On Time',
+                inStatus: 'Late In',
                 employeeId: 'NV20230004',
                 shiftId: 2
             },
@@ -183,7 +183,7 @@ module.exports = {
                 id: 23,
                 attendanceDate: '2023-11-29',
                 inTime: '12:58:02',
-                inStatus: 'Late In',
+                inStatus: 'On Time',
                 employeeId: 'NV20230005',
                 shiftId: 2
             },
@@ -191,6 +191,102 @@ module.exports = {
                 id: 24,
                 attendanceDate: '2023-11-29',
                 inTime: '12:57:40',
+                inStatus: 'On Time',
+                employeeId: 'NV20230006',
+                shiftId: 2
+            },
+            {
+                id: 25,
+                attendanceDate: '2023-11-30',
+                inTime: '7:58:01',
+                inStatus: 'On Time',
+                employeeId: 'NV20230001',
+                shiftId: 1
+            },
+            {
+                id: 26,
+                attendanceDate: '2023-11-30',
+                inTime: '07:55:23',
+                inStatus: 'On Time',
+                employeeId: 'NV20230002',
+                shiftId: 1
+            },
+            {
+                id: 27,
+                attendanceDate: '2023-11-30',
+                inTime: '07:58:33',
+                inStatus: 'On Time',
+                employeeId: 'NV20230003',
+                shiftId: 1
+            },
+            {
+                id: 28,
+                attendanceDate: '2023-11-30',
+                inTime: '07:56:53',
+                inStatus: 'On Time',
+                employeeId: 'NV20230004',
+                shiftId: 1
+            },
+            {
+                id: 29,
+                attendanceDate: '2023-11-30',
+                inTime: '07:54:15',
+                inStatus: 'On Time',
+                employeeId: 'NV20230005',
+                shiftId: 1
+            },
+            {
+                id: 30,
+                attendanceDate: '2023-11-30',
+                inTime: '07:54:50',
+                inStatus: 'On Time',
+                employeeId: 'NV20230006',
+                shiftId: 1
+            },
+            {
+                id: 31,
+                attendanceDate: '2023-11-30',
+                inTime: '12:54:10',
+                inStatus: 'On Time',
+                employeeId: 'NV20230001',
+                shiftId: 2
+            },
+            {
+                id: 32,
+                attendanceDate: '2023-11-30',
+                inTime: '12:54:23',
+                inStatus: 'On Time',
+                employeeId: 'NV20230002',
+                shiftId: 2
+            },
+            {
+                id: 33,
+                attendanceDate: '2023-11-30',
+                inTime: '13:01:45',
+                inStatus: 'Late In',
+                employeeId: 'NV20230003',
+                shiftId: 2
+            },
+            {
+                id: 34,
+                attendanceDate: '2023-11-30',
+                inTime: '12:55:52',
+                inStatus: 'On Time',
+                employeeId: 'NV20230004',
+                shiftId: 2
+            },
+            {
+                id: 35,
+                attendanceDate: '2023-11-30',
+                inTime: '12:56:02',
+                inStatus: 'On Time',
+                employeeId: 'NV20230005',
+                shiftId: 2
+            },
+            {
+                id: 36,
+                attendanceDate: '2023-11-30',
+                inTime: '12:56:42',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
                 shiftId: 2
