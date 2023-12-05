@@ -8,12 +8,16 @@ import {
     adminUpdateAttendanceSchema,
 } from "../validations/attendance.validation.js";
 import { filterAll, modelFilterSchema } from "../validations/filter.validation.js";
-import { verifyAdmin, verifyAdminOrDepartmentManager } from './../middlewares/auth.middleware.js';
+import {
+    verifyAdmin,
+    verifyAdminOrDepartmentManager,
+    allowIPMiddleware
+} from './../middlewares/auth.middleware.js';
 
 const router = express.Router();
 
 router.route("/")
-    .post(validation(loginAttendanceSchema), attendanceController.logInAttendance)
+    .post(validation(loginAttendanceSchema), allowIPMiddleware, attendanceController.logInAttendance)
     .patch(validation(logoutAttendanceSchema), attendanceController.logOutAttendance)
 
 router.route("/current")

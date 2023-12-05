@@ -69,3 +69,15 @@ exports.verifyAdminOrDepartmentManager = async (req, res, next) => {
         return next(createError.Unauthorized('You are not a department manager to perform this function'));
     }
 }
+
+exports.allowIPMiddleware = (req, res, next) => {
+    const allowedIPs = config.app.allowed_ips;
+    const xForwardedFor  = req.headers['x-forwarded-for'];
+    const ipList = xForwardedFor ? xForwardedFor.split(', ') : [];
+    const clientIP = ipList[0] || req.connection.remoteAddress;
+    if (allowedIPs.includes(clientIP)) {
+        next();
+    } else {
+        return next(createError.Forbidden('Access denied'));
+    }
+};
