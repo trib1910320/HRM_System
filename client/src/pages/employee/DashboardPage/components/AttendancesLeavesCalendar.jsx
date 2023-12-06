@@ -62,9 +62,9 @@ const getListData = (current, value, attendances, leaves) => {
             ? 'warning'
             : 'success',
         content: leave.title,
-        detail: `${leave.title} - (${dayjs(leave.leaveFrom).format(
+        detail: `${leave.title} - ( ${dayjs(leave.leaveFrom).format(
           'DD/MM/YYYY',
-        )} - ${dayjs(leave.leaveTo).format('DD/MM/YYYY')})`,
+        )} - ${dayjs(leave.leaveTo).format('DD/MM/YYYY')} )`,
       });
     }
   });
@@ -136,10 +136,6 @@ function AttendancesLeavesCalendar() {
     return () => controller.abort();
   }, [filterLeave, filterAttendance]);
 
-  const handleVisibleChange = (visible) => {
-    setVisible(visible);
-  };
-
   const handleDateSelect = (date) => {
     setSelectedDate(date);
     setVisible(true);
@@ -201,7 +197,7 @@ function AttendancesLeavesCalendar() {
           <Button
             type="default"
             icon={<CloseOutlined />}
-            onClick={() => handleVisibleChange(false)}
+            onClick={() => setVisible(false)}
           />
         </Col>
       </Row>
