@@ -101,7 +101,7 @@ module.exports = {
             },
             {
                 id: 49,
-                attendanceDate: '2023-12-02',
+                attendanceDate: '2023-12-04',
                 inTime: '07:55:48',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
@@ -109,7 +109,7 @@ module.exports = {
             },
             {
                 id: 50,
-                attendanceDate: '2023-12-02',
+                attendanceDate: '2023-12-04',
                 inTime: '07:57:49',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
@@ -117,7 +117,7 @@ module.exports = {
             },
             {
                 id: 51,
-                attendanceDate: '2023-12-02',
+                attendanceDate: '2023-12-04',
                 inTime: '07:58:02',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
@@ -125,7 +125,7 @@ module.exports = {
             },
             {
                 id: 52,
-                attendanceDate: '2023-12-02',
+                attendanceDate: '2023-12-04',
                 inTime: '07:56:54',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
@@ -133,7 +133,7 @@ module.exports = {
             },
             {
                 id: 53,
-                attendanceDate: '2023-12-02',
+                attendanceDate: '2023-12-04',
                 inTime: '07:57:11',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
@@ -141,7 +141,7 @@ module.exports = {
             },
             {
                 id: 54,
-                attendanceDate: '2023-12-02',
+                attendanceDate: '2023-12-04',
                 inTime: '07:58:03',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
@@ -149,7 +149,7 @@ module.exports = {
             },
             {
                 id: 55,
-                attendanceDate: '2023-12-02',
+                attendanceDate: '2023-12-04',
                 inTime: '12:56:22',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
@@ -157,7 +157,7 @@ module.exports = {
             },
             {
                 id: 56,
-                attendanceDate: '2023-12-02',
+                attendanceDate: '2023-12-04',
                 inTime: '12:57:42',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
@@ -165,7 +165,7 @@ module.exports = {
             },
             {
                 id: 57,
-                attendanceDate: '2023-12-02',
+                attendanceDate: '2023-12-04',
                 inTime: '12:55:21',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
@@ -173,7 +173,7 @@ module.exports = {
             },
             {
                 id: 58,
-                attendanceDate: '2023-12-02',
+                attendanceDate: '2023-12-04',
                 inTime: '12:56:42',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
@@ -181,7 +181,7 @@ module.exports = {
             },
             {
                 id: 59,
-                attendanceDate: '2023-12-02',
+                attendanceDate: '2023-12-04',
                 inTime: '12:56:40',
                 inStatus: 'On Time',
 
@@ -190,7 +190,7 @@ module.exports = {
             },
             {
                 id: 60,
-                attendanceDate: '2023-12-02',
+                attendanceDate: '2023-12-04',
                 inTime: '12:54:45',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
@@ -198,7 +198,7 @@ module.exports = {
             },
             {
                 id: 61,
-                attendanceDate: '2023-12-04',
+                attendanceDate: '2023-12-05',
                 inTime: '07:55:08',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
@@ -206,7 +206,7 @@ module.exports = {
             },
             {
                 id: 62,
-                attendanceDate: '2023-12-04',
+                attendanceDate: '2023-12-05',
                 inTime: '07:55:24',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
@@ -214,7 +214,7 @@ module.exports = {
             },
             {
                 id: 63,
-                attendanceDate: '2023-12-04',
+                attendanceDate: '2023-12-05',
                 inTime: '07:57:33',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
@@ -222,7 +222,7 @@ module.exports = {
             },
             {
                 id: 64,
-                attendanceDate: '2023-12-04',
+                attendanceDate: '2023-12-05',
                 inTime: '07:56:43',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
@@ -230,7 +230,7 @@ module.exports = {
             },
             {
                 id: 65,
-                attendanceDate: '2023-12-04',
+                attendanceDate: '2023-12-05',
                 inTime: '07:55:56',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
@@ -238,7 +238,7 @@ module.exports = {
             },
             {
                 id: 66,
-                attendanceDate: '2023-12-04',
+                attendanceDate: '2023-12-05',
                 inTime: '07:55:42',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
@@ -246,7 +246,7 @@ module.exports = {
             },
             {
                 id: 67,
-                attendanceDate: '2023-12-04',
+                attendanceDate: '2023-12-05',
                 inTime: '12:58:24',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
@@ -254,7 +254,7 @@ module.exports = {
             },
             {
                 id: 68,
-                attendanceDate: '2023-12-04',
+                attendanceDate: '2023-12-05',
                 inTime: '12:54:51',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
@@ -262,7 +262,7 @@ module.exports = {
             },
             {
                 id: 69,
-                attendanceDate: '2023-12-04',
+                attendanceDate: '2023-12-05',
                 inTime: '12:52:52',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
@@ -270,7 +270,7 @@ module.exports = {
             },
             {
                 id: 70,
-                attendanceDate: '2023-12-04',
+                attendanceDate: '2023-12-05',
                 inTime: '12:57:52',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
@@ -278,7 +278,7 @@ module.exports = {
             },
             {
                 id: 71,
-                attendanceDate: '2023-12-04',
+                attendanceDate: '2023-12-05',
                 inTime: '12:56:34',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
@@ -286,7 +286,7 @@ module.exports = {
             },
             {
                 id: 72,
-                attendanceDate: '2023-12-04',
+                attendanceDate: '2023-12-05',
                 inTime: '12:57:40',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
@@ -294,7 +294,7 @@ module.exports = {
             },
             {
                 id: 73,
-                attendanceDate: '2023-12-05',
+                attendanceDate: '2023-12-06',
                 inTime: '07:54:28',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
@@ -302,7 +302,7 @@ module.exports = {
             },
             {
                 id: 74,
-                attendanceDate: '2023-12-05',
+                attendanceDate: '2023-12-06',
                 inTime: '07:54:43',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
@@ -310,7 +310,7 @@ module.exports = {
             },
             {
                 id: 75,
-                attendanceDate: '2023-12-05',
+                attendanceDate: '2023-12-06',
                 inTime: '07:57:33',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
@@ -318,7 +318,7 @@ module.exports = {
             },
             {
                 id: 76,
-                attendanceDate: '2023-12-05',
+                attendanceDate: '2023-12-06',
                 inTime: '07:56:03',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
@@ -326,7 +326,7 @@ module.exports = {
             },
             {
                 id: 77,
-                attendanceDate: '2023-12-05',
+                attendanceDate: '2023-12-06',
                 inTime: '07:57:23',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
@@ -334,7 +334,7 @@ module.exports = {
             },
             {
                 id: 78,
-                attendanceDate: '2023-12-05',
+                attendanceDate: '2023-12-06',
                 inTime: '07:57:11',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
@@ -342,7 +342,7 @@ module.exports = {
             },
             {
                 id: 79,
-                attendanceDate: '2023-12-05',
+                attendanceDate: '2023-12-06',
                 inTime: '12:58:25',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
@@ -350,7 +350,7 @@ module.exports = {
             },
             {
                 id: 80,
-                attendanceDate: '2023-12-05',
+                attendanceDate: '2023-12-06',
                 inTime: '12:57:57',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
@@ -358,7 +358,7 @@ module.exports = {
             },
             {
                 id: 81,
-                attendanceDate: '2023-12-05',
+                attendanceDate: '2023-12-06',
                 inTime: '12:58:25',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
@@ -366,7 +366,7 @@ module.exports = {
             },
             {
                 id: 82,
-                attendanceDate: '2023-12-05',
+                attendanceDate: '2023-12-06',
                 inTime: '12:56:23',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
@@ -374,7 +374,7 @@ module.exports = {
             },
             {
                 id: 83,
-                attendanceDate: '2023-12-05',
+                attendanceDate: '2023-12-06',
                 inTime: '12:58:02',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
@@ -382,7 +382,7 @@ module.exports = {
             },
             {
                 id: 84,
-                attendanceDate: '2023-12-05',
+                attendanceDate: '2023-12-06',
                 inTime: '12:57:40',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
@@ -390,7 +390,7 @@ module.exports = {
             },
             {
                 id: 85,
-                attendanceDate: '2023-12-06',
+                attendanceDate: '2023-12-07',
                 inTime: '7:58:01',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
@@ -398,7 +398,7 @@ module.exports = {
             },
             {
                 id: 86,
-                attendanceDate: '2023-12-06',
+                attendanceDate: '2023-12-07',
                 inTime: '07:55:23',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
@@ -406,7 +406,7 @@ module.exports = {
             },
             {
                 id: 87,
-                attendanceDate: '2023-12-06',
+                attendanceDate: '2023-12-07',
                 inTime: '07:58:33',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
@@ -414,7 +414,7 @@ module.exports = {
             },
             {
                 id: 88,
-                attendanceDate: '2023-12-06',
+                attendanceDate: '2023-12-07',
                 inTime: '07:56:53',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
@@ -422,7 +422,7 @@ module.exports = {
             },
             {
                 id: 89,
-                attendanceDate: '2023-12-06',
+                attendanceDate: '2023-12-07',
                 inTime: '07:54:15',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
@@ -430,7 +430,7 @@ module.exports = {
             },
             {
                 id: 90,
-                attendanceDate: '2023-12-06',
+                attendanceDate: '2023-12-07',
                 inTime: '07:54:50',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
@@ -438,7 +438,7 @@ module.exports = {
             },
             {
                 id: 91,
-                attendanceDate: '2023-12-06',
+                attendanceDate: '2023-12-07',
                 inTime: '12:54:10',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
@@ -446,7 +446,7 @@ module.exports = {
             },
             {
                 id: 92,
-                attendanceDate: '2023-12-06',
+                attendanceDate: '2023-12-07',
                 inTime: '12:54:23',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
@@ -454,7 +454,7 @@ module.exports = {
             },
             {
                 id: 93,
-                attendanceDate: '2023-12-06',
+                attendanceDate: '2023-12-07',
                 inTime: '12:56:32',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
@@ -462,7 +462,7 @@ module.exports = {
             },
             {
                 id: 94,
-                attendanceDate: '2023-12-06',
+                attendanceDate: '2023-12-07',
                 inTime: '12:55:52',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
@@ -470,7 +470,7 @@ module.exports = {
             },
             {
                 id: 95,
-                attendanceDate: '2023-12-06',
+                attendanceDate: '2023-12-07',
                 inTime: '12:56:02',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
@@ -478,7 +478,7 @@ module.exports = {
             },
             {
                 id: 96,
-                attendanceDate: '2023-12-06',
+                attendanceDate: '2023-12-07',
                 inTime: '12:56:42',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
@@ -486,7 +486,7 @@ module.exports = {
             },
             {
                 id: 97,
-                attendanceDate: '2023-12-07',
+                attendanceDate: '2023-12-08',
                 inTime: '07:53:08',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
@@ -494,7 +494,7 @@ module.exports = {
             },
             {
                 id: 98,
-                attendanceDate: '2023-12-07',
+                attendanceDate: '2023-12-08',
                 inTime: '07:57:03',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
@@ -502,7 +502,7 @@ module.exports = {
             },
             {
                 id: 99,
-                attendanceDate: '2023-12-07',
+                attendanceDate: '2023-12-08',
                 inTime: '07:58:33',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
@@ -510,7 +510,7 @@ module.exports = {
             },
             {
                 id: 100,
-                attendanceDate: '2023-12-07',
+                attendanceDate: '2023-12-08',
                 inTime: '08:01:11',
                 inStatus: 'Late In',
                 employeeId: 'NV20230004',
@@ -518,7 +518,7 @@ module.exports = {
             },
             {
                 id: 101,
-                attendanceDate: '2023-12-07',
+                attendanceDate: '2023-12-08',
                 inTime: '07:57:11',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
@@ -526,7 +526,7 @@ module.exports = {
             },
             {
                 id: 102,
-                attendanceDate: '2023-12-07',
+                attendanceDate: '2023-12-08',
                 inTime: '07:52:30',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
@@ -534,7 +534,7 @@ module.exports = {
             },
             {
                 id: 103,
-                attendanceDate: '2023-12-07',
+                attendanceDate: '2023-12-08',
                 inTime: '12:57:12',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
@@ -542,7 +542,7 @@ module.exports = {
             },
             {
                 id: 104,
-                attendanceDate: '2023-12-07',
+                attendanceDate: '2023-12-08',
                 inTime: '12:54:01',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
@@ -550,7 +550,7 @@ module.exports = {
             },
             {
                 id: 105,
-                attendanceDate: '2023-12-07',
+                attendanceDate: '2023-12-08',
                 inTime: '12:57:52',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
@@ -558,7 +558,7 @@ module.exports = {
             },
             {
                 id: 106,
-                attendanceDate: '2023-12-07',
+                attendanceDate: '2023-12-08',
                 inTime: '12:56:42',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
@@ -566,7 +566,7 @@ module.exports = {
             },
             {
                 id: 107,
-                attendanceDate: '2023-12-07',
+                attendanceDate: '2023-12-08',
                 inTime: '12:58:21',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
@@ -574,200 +574,7 @@ module.exports = {
             },
             {
                 id: 108,
-                attendanceDate: '2023-12-07',
-                inTime: '12:57:40',
-                inStatus: 'On Time',
-                employeeId: 'NV20230006',
-                shiftId: 2
-            },
-            {
-                id: 109,
                 attendanceDate: '2023-12-08',
-                inTime: '07:53:58',
-                inStatus: 'On Time',
-                employeeId: 'NV20230001',
-                shiftId: 1
-            },
-            {
-                id: 110,
-                attendanceDate: '2023-12-08',
-                inTime: '07:51:30',
-                inStatus: 'On Time',
-                employeeId: 'NV20230002',
-                shiftId: 1
-            },
-            {
-                id: 111,
-                attendanceDate: '2023-12-08',
-                inTime: '07:54:33',
-                inStatus: 'On Time',
-                employeeId: 'NV20230003',
-                shiftId: 1
-            },
-            {
-                id: 112,
-                attendanceDate: '2023-12-08',
-                inTime: '07:52:11',
-                inStatus: 'On Time',
-                employeeId: 'NV20230004',
-                shiftId: 1
-            },
-            {
-                id: 113,
-                attendanceDate: '2023-12-08',
-                inTime: '07:57:42',
-                inStatus: 'On Time',
-                employeeId: 'NV20230005',
-                shiftId: 1
-            },
-            {
-                id: 114,
-                attendanceDate: '2023-12-08',
-                inTime: '07:56:03',
-                inStatus: 'On Time',
-                employeeId: 'NV20230006',
-                shiftId: 1
-            },
-            {
-                id: 115,
-                attendanceDate: '2023-12-08',
-                inTime: '12:55:12',
-                inStatus: 'On Time',
-                employeeId: 'NV20230001',
-                shiftId: 2
-            },
-            {
-                id: 116,
-                attendanceDate: '2023-12-08',
-                inTime: '12:58:52',
-                inStatus: 'On Time',
-                employeeId: 'NV20230002',
-                shiftId: 2
-            },
-            {
-                id: 117,
-                attendanceDate: '2023-12-08',
-                inTime: '12:57:01',
-                inStatus: 'On Time',
-                employeeId: 'NV20230003',
-                shiftId: 2
-            },
-            {
-                id: 118,
-                attendanceDate: '2023-12-08',
-                inTime: '13:02:12',
-                inStatus: 'Late In',
-                employeeId: 'NV20230004',
-                shiftId: 2
-            },
-            {
-                id: 119,
-                attendanceDate: '2023-12-08',
-                inTime: '12:57:40',
-                inStatus: 'On Time',
-
-                employeeId: 'NV20230005',
-                shiftId: 2
-            },
-            {
-                id: 120,
-                attendanceDate: '2023-12-08',
-                inTime: '12:57:49',
-                inStatus: 'On Time',
-                employeeId: 'NV20230006',
-                shiftId: 2
-            },
-            {
-                id: 121,
-                attendanceDate: '2023-12-09',
-                inTime: '07:54:08',
-                inStatus: 'On Time',
-                employeeId: 'NV20230001',
-                shiftId: 1
-            },
-            {
-                id: 122,
-                attendanceDate: '2023-12-09',
-                inTime: '07:56:23',
-                inStatus: 'On Time',
-                employeeId: 'NV20230002',
-                shiftId: 1
-            },
-            {
-                id: 123,
-                attendanceDate: '2023-12-09',
-                inTime: '07:56:31',
-                inStatus: 'On Time',
-                employeeId: 'NV20230003',
-                shiftId: 1
-            },
-            {
-                id: 124,
-                attendanceDate: '2023-12-09',
-                inTime: '07:54:23',
-                inStatus: 'On Time',
-                employeeId: 'NV20230004',
-                shiftId: 1
-            },
-            {
-                id: 125,
-                attendanceDate: '2023-12-09',
-                inTime: '07:56:43',
-                inStatus: 'On Time',
-                employeeId: 'NV20230005',
-                shiftId: 1
-            },
-            {
-                id: 126,
-                attendanceDate: '2023-12-09',
-                inTime: '07:58:42',
-                inStatus: 'On Time',
-                employeeId: 'NV20230006',
-                shiftId: 1
-            },
-            {
-                id: 127,
-                attendanceDate: '2023-12-09',
-                inTime: '12:55:25',
-                inStatus: 'On Time',
-                employeeId: 'NV20230001',
-                shiftId: 2
-            },
-            {
-                id: 128,
-                attendanceDate: '2023-12-09',
-                inTime: '12:54:57',
-                inStatus: 'On Time',
-                employeeId: 'NV20230002',
-                shiftId: 2
-            },
-            {
-                id: 129,
-                attendanceDate: '2023-12-09',
-                inTime: '12:56:12',
-                inStatus: 'On Time',
-                employeeId: 'NV20230003',
-                shiftId: 2
-            },
-            {
-                id: 130,
-                attendanceDate: '2023-12-09',
-                inTime: '12:56:30',
-                inStatus: 'On Time',
-                employeeId: 'NV20230004',
-                shiftId: 2
-            },
-            {
-                id: 131,
-                attendanceDate: '2023-12-09',
-                inTime: '12:58:02',
-                inStatus: 'On Time',
-                employeeId: 'NV20230005',
-                shiftId: 2
-            },
-            {
-                id: 132,
-                attendanceDate: '2023-12-09',
                 inTime: '12:57:40',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
