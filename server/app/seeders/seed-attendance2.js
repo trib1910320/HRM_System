@@ -9,6 +9,10 @@ module.exports = {
                 inTime: '07:54:08',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230007',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -17,6 +21,10 @@ module.exports = {
                 inTime: '07:57:53',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -25,6 +33,10 @@ module.exports = {
                 inTime: '07:57:32',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -33,6 +45,10 @@ module.exports = {
                 inTime: '07:58:21',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -41,6 +57,10 @@ module.exports = {
                 inTime: '07:54:24',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -49,6 +69,10 @@ module.exports = {
                 inTime: '07:53:32',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -57,6 +81,10 @@ module.exports = {
                 inTime: '12:54:12',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230007',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -65,6 +93,10 @@ module.exports = {
                 inTime: '12:58:01',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -73,6 +105,10 @@ module.exports = {
                 inTime: '12:57:22',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -81,6 +117,10 @@ module.exports = {
                 inTime: '12:57:42',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -89,6 +129,10 @@ module.exports = {
                 inTime: '12:56:29',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -97,6 +141,10 @@ module.exports = {
                 inTime: '12:57:40',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -105,6 +153,10 @@ module.exports = {
                 inTime: '07:55:48',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230007',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -113,6 +165,10 @@ module.exports = {
                 inTime: '07:57:49',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -121,6 +177,10 @@ module.exports = {
                 inTime: '07:58:02',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -129,6 +189,10 @@ module.exports = {
                 inTime: '07:56:54',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -137,6 +201,10 @@ module.exports = {
                 inTime: '07:57:11',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -145,6 +213,10 @@ module.exports = {
                 inTime: '07:58:03',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -153,6 +225,10 @@ module.exports = {
                 inTime: '12:56:22',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230007',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -161,6 +237,10 @@ module.exports = {
                 inTime: '12:57:42',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -169,6 +249,10 @@ module.exports = {
                 inTime: '12:55:21',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -177,6 +261,10 @@ module.exports = {
                 inTime: '12:56:42',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -184,8 +272,11 @@ module.exports = {
                 attendanceDate: '2023-12-04',
                 inTime: '12:56:40',
                 inStatus: 'On Time',
-
                 employeeId: 'NV20230005',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -194,6 +285,10 @@ module.exports = {
                 inTime: '12:54:45',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -202,6 +297,10 @@ module.exports = {
                 inTime: '07:55:08',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230007',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -210,6 +309,10 @@ module.exports = {
                 inTime: '07:55:24',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -218,6 +321,10 @@ module.exports = {
                 inTime: '07:57:33',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -226,6 +333,10 @@ module.exports = {
                 inTime: '07:56:43',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -234,6 +345,10 @@ module.exports = {
                 inTime: '07:55:56',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -242,6 +357,10 @@ module.exports = {
                 inTime: '07:55:42',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -250,6 +369,10 @@ module.exports = {
                 inTime: '12:58:24',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -258,6 +381,10 @@ module.exports = {
                 inTime: '12:54:51',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -266,6 +393,10 @@ module.exports = {
                 inTime: '12:52:52',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -274,6 +405,10 @@ module.exports = {
                 inTime: '12:57:52',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -282,6 +417,10 @@ module.exports = {
                 inTime: '12:56:34',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -290,6 +429,10 @@ module.exports = {
                 inTime: '12:57:40',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -298,6 +441,10 @@ module.exports = {
                 inTime: '07:54:28',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230007',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -306,6 +453,10 @@ module.exports = {
                 inTime: '07:54:43',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -314,6 +465,10 @@ module.exports = {
                 inTime: '07:57:33',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -322,6 +477,10 @@ module.exports = {
                 inTime: '07:56:03',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -330,6 +489,10 @@ module.exports = {
                 inTime: '07:57:23',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -338,6 +501,10 @@ module.exports = {
                 inTime: '07:57:11',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -346,6 +513,10 @@ module.exports = {
                 inTime: '12:58:25',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230007',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -354,6 +525,10 @@ module.exports = {
                 inTime: '12:57:57',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -362,6 +537,10 @@ module.exports = {
                 inTime: '12:58:25',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -370,6 +549,10 @@ module.exports = {
                 inTime: '12:56:23',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -378,6 +561,10 @@ module.exports = {
                 inTime: '12:58:02',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -386,6 +573,10 @@ module.exports = {
                 inTime: '12:57:40',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -394,6 +585,10 @@ module.exports = {
                 inTime: '7:58:01',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230007',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -402,6 +597,10 @@ module.exports = {
                 inTime: '07:55:23',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -410,6 +609,10 @@ module.exports = {
                 inTime: '07:58:33',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -418,6 +621,10 @@ module.exports = {
                 inTime: '07:56:53',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -426,6 +633,10 @@ module.exports = {
                 inTime: '07:54:15',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -434,6 +645,10 @@ module.exports = {
                 inTime: '07:54:50',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -442,6 +657,10 @@ module.exports = {
                 inTime: '12:54:10',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230007',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -450,6 +669,10 @@ module.exports = {
                 inTime: '12:54:23',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -458,6 +681,10 @@ module.exports = {
                 inTime: '12:56:32',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -466,6 +693,10 @@ module.exports = {
                 inTime: '12:55:52',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -474,6 +705,10 @@ module.exports = {
                 inTime: '12:56:02',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -482,6 +717,10 @@ module.exports = {
                 inTime: '12:56:42',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -490,6 +729,10 @@ module.exports = {
                 inTime: '07:53:08',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230007',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -498,6 +741,10 @@ module.exports = {
                 inTime: '07:57:03',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -506,6 +753,10 @@ module.exports = {
                 inTime: '07:58:33',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -514,6 +765,10 @@ module.exports = {
                 inTime: '08:01:11',
                 inStatus: 'Late In',
                 employeeId: 'NV20230004',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -522,6 +777,10 @@ module.exports = {
                 inTime: '07:57:11',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -530,6 +789,10 @@ module.exports = {
                 inTime: '07:52:30',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 1
             },
             {
@@ -538,6 +801,10 @@ module.exports = {
                 inTime: '12:57:12',
                 inStatus: 'On Time',
                 employeeId: 'NV20230001',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230007',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -546,6 +813,10 @@ module.exports = {
                 inTime: '12:54:01',
                 inStatus: 'On Time',
                 employeeId: 'NV20230002',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -554,6 +825,10 @@ module.exports = {
                 inTime: '12:57:52',
                 inStatus: 'On Time',
                 employeeId: 'NV20230003',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -562,6 +837,10 @@ module.exports = {
                 inTime: '12:56:42',
                 inStatus: 'On Time',
                 employeeId: 'NV20230004',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -570,6 +849,10 @@ module.exports = {
                 inTime: '12:58:21',
                 inStatus: 'On Time',
                 employeeId: 'NV20230005',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
             {
@@ -578,6 +861,10 @@ module.exports = {
                 inTime: '12:57:40',
                 inStatus: 'On Time',
                 employeeId: 'NV20230006',
+                managerStatus: 'Approved',
+                adminStatus: 'Approved',
+                managerEId: 'NV20230002',
+                adminEId: 'NV20230001',
                 shiftId: 2
             },
         ], {
